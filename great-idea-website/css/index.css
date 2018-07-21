@@ -70,77 +70,59 @@ body {
 	margin: 20px auto;
 	text-align: center;
 }
-
 title {
 	float: right;
 	display: inline-block;
 }
-
 nav li {
 	display: inline-block;
 	padding: 10px 32px;
 	float: left;
 	color: gray;
 }
-
 .img-top {
 	float: right;
-	display:inline-block;
+	display: inline-block;
 	width: inherit;
 }
-
-.mock-button {
-	
-}
-
 .headline {
 	float: left;
 	width: 370px;
-	height: 
-	display:inline-block;
-	
+	height: display:inline-block;
 	margin-top: 90px;
-	margin-left:50px;
-	
+	margin-left: 50px;
 }
-
 .headline-text {
-	font-size: 75px;
-	display:inline-block;
-	
+	font-size: 70px;
+	display: inline-block;
 	vertical-align: middle;
 }
-.img-container{
+.img-container {
 	float: right;
-	display:inline-block;
-	width: 375px;
-	height: 375px;
+	display: inline-block;
+	width: 365px;
+	height: 365px;
 	margin-top: 50px;
-	
-	
+	margin-bottom: 30px;
 }
-
 .headline p {
-	
 	display: inline-block;
 	border: solid 2px black;
 	vertical-align: middle;
 	width: 50%;
-	margin:auto;
+	margin: auto;
 	padding: 7px;
 	text-align: center;
 	font-size: 15px;
 }
-
 .about {
 	margin: 50px auto;
-	padding: 10px auto;
+	padding: 20px 0px;
 	display: inline-block;
 	border-top: solid 2px black;
 	border-bottom: solid 2px black;
 	text-align: left;
 }
-
 #features {
 	display: inline-block;
 	float: left;
@@ -148,11 +130,7 @@ nav li {
 	height: 150px;
 	font-size: 17px;
 	margin: 25px 0px 0px 0px;
-	
-	
 }
-
-
 #aboutabout {
 	display: inline-block;
 	float: right;
@@ -161,53 +139,37 @@ nav li {
 	margin: 25px 0px 0px 0px;
 	font-size: 17px;
 }
-
-
-
-
-
-
 #services {
 	display: inline-block;
 	float: left;
 	width: 32%;
 	height: 150px;
-	margin:25px 17px 25px 0px;
+	margin: 45px 17px 25px 0px;
 	font-size: 17px;
-	
 }
-
 #product {
 	display: inline-block;
 	float: none;
 	width: 32%;
 	height: 150px;
-	margin: 25px 17px 25px auto;
+	margin: 45px 17px 25px auto;
 	font-size: 17px;
-		
 }
-
 #vision {
 	display: inline-block;
 	float: right;
 	width: 32%;
 	height: 150px;
-	margin:25px 0px 25px auto;
+	margin: 45px 0px 25px auto;
 	font-size: 17px;
-		
 }
-
 .middle-img {
 	width: 100%;
 }
-
 address {
 	<float: left;
 	text-align: left;
 }
-
 ul {
 	line-style-type: none;
-	
 }
-
